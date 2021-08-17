@@ -7,10 +7,14 @@ form{
     padding: 30px;
 }
 
-input, select, textarea, .radios, .checks {
+input, select, .radios {
     margin-bottom: 25px;
-
 }
+
 .radios label, .checks label {
     margin-right: 50px;
+}
+.genero.data { 
+    display: flex;
+    flex-wrap: wrap;
 }
